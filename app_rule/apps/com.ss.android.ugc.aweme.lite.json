@@ -1,16 +1,27 @@
 {
-  "label": "抖音极速版",
   "package": "com.ss.android.ugc.aweme.lite",
+  "verified": false,
   "authors": [
     "RainThings"
   ],
-  "last_update": {
-    "timestamp": 1612838280,
-    "version_name": "13.3.1",
-    "version_code": 130301
-  },
-  "recommendation": "@recommended",
+    "recommendation": "@recommended",
   "behaviors": [
     "@abuse"
   ],
+  "last_update": {
+    "timestamp": 1612839405,
+    "version_name": "13.3.1",
+    "version_code": 130301
+  },
+  	"export_folders": {
+		"data": {
+			"downloaded_video_0": {
+				"title": "@downloaded_video",
+				 "source": "DCIM/Camera",
+                 "target": "Movies/抖音",
+				"call_media_scan": true,
+				"add_to_downloads": false,
+				"allow_child": true
+		}
+	}
 }

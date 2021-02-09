@@ -18,10 +18,10 @@
       "0": {
         "summary": "@saved_videos",
         "source": "DCIM/Camera",
-        "target": "Movies/抖音",
+        "target": "Movies/DYDownload",
         "call_media_scan": true,
         "add_to_downloads": false,
-        "allow_child": true
+        "allow_child": false,
       }
     }
   }

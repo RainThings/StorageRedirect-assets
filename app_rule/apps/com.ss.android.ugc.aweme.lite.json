@@ -13,16 +13,4 @@
   "behaviors": [
     "@abuse"
   ],
-  "export_folders": {
-    "data": {
-      "0": {
-        "summary": "@saved_videos",
-        "source": "DCIM/Camera",
-        "target": "Movies/抖音",
-        "call_media_scan": true,
-        "add_to_downloads": false,
-        "allow_child": false
-      }
-    }
-  }
 }

@@ -17,11 +17,12 @@
 		"data": {
 			"downloaded_video_0": {
 				"title": "@downloaded_video",
-				 "source": "DCIM/Camera",
-                 "target": "Movies/抖音",
+				"source": "DCIM/Camera",
+				"target": "Movies/抖音",
 				"call_media_scan": true,
 				"add_to_downloads": false,
 				"allow_child": true
+			}
 		}
 	}
 }

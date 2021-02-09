@@ -16,7 +16,7 @@
   	"export_folders": {
 		"data": {
 			"downloaded_video_0": {
-				"title": "@downloaded_video",
+				"title": "@saved_videos",
 				"source": "DCIM/Camera",
 				"target": "Movies/抖音",
 				"call_media_scan": true,

@@ -5,7 +5,7 @@
     "RainThings"
   ],
   "last_update": {
-    "timestamp": 1612662539,
+    "timestamp": 1612838280,
     "version_name": "13.3.1",
     "version_code": 130301
   },
@@ -18,10 +18,10 @@
       "0": {
         "summary": "@saved_videos",
         "source": "DCIM/Camera",
-        "target": "Movies/DYDownload",
+        "target": "Movies/抖音",
         "call_media_scan": true,
         "add_to_downloads": false,
-        "allow_child": false
+        "allow_child": true
       }
     }
   }

@@ -1,14 +1,16 @@
 {
-    "package": "tv.danmaku.bili",
-    "verified": false,
-    "authors": [
-        "DEVELOPER"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        "@abuse"
-    ]
+  "label": "哔哩哔哩",
+  "package": "tv.danmaku.bili",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1612838757,
+    "version_name": "6.18.1",
+    "version_code": 6181000
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
 }

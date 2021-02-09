@@ -1,0 +1,16 @@
+{
+  "package": "com.kuaishou.nebula",
+  "verified": false,
+  "authors": [
+    "RainThings"
+  ],
+  "last_update": {
+    "timestamp": 1612844100,
+    "version_name": "9.0.40.992",
+    "version_code": 992
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

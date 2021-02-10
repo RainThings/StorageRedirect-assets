@@ -1,0 +1,16 @@
+{
+  "package": "com.knight.union.mi",
+  "verified": false,
+  "authors": [
+    "RainThings"
+  ],
+  "last_update": {
+    "timestamp": 1612965003,
+    "version_name": "3.0.1",
+    "version_code": 30010
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}
